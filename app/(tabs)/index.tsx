@@ -4,7 +4,7 @@ import { Text, View } from "react-native";
 export default function Index() {
   return (
     <View className="flex-1 items-center justify-center bg-background">
-      <Text className="text-xl font-bold text-success">
+      <Text className="text-xl font-bold text-yellow-400">
         Welcome to Nativewind!
       </Text>
       <Link href="/Onboarding" className="mt-4 bg-black text-white p-4 rounded">
